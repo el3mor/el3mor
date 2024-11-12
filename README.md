@@ -18,16 +18,16 @@
 
 <p align="left">
   <!-- Skill Badges -->
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E"/>&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5&logoColor=E34F26"/>&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3&logoColor=1572B6"/>&nbsp;
-  <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032"/>&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
-    
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
 </p>
+
 
 ---
 
