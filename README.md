@@ -1,23 +1,25 @@
 <h3 align="center">
-  Hello, Iam Omar Elsheikh And This Is My Profile 
+  Hello, I'm Omar Elsheikh, and this is my profile!
   <img src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b952j3ewsnzcmrvctj1g6sqe5g0smegfp98346c78vgf&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3611&width=435&lines=Front-End+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF3611&width=435&lines=Front-End+Developer+%7C+Software+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
-- 💬 Ask me about Any Thing 👉🏻👈🏻
-- 👨🏻‍💻 Cheak Out My Protfolio
-
-  
 ---
+
+- 🌱 I’m currently learning [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
+- 💬 Feel free to ask me anything – happy to chat! 👉🏻👈🏻
+- 👨🏻‍💻 Check Out My [**Portfolio**](#) 
+
+---
+
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Skill Badges -->
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
@@ -28,11 +30,26 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;
 </p>
 
+---
+
+### 🌟 Featured Projects
+
+- **TaskTempo**: A productivity web app combining a Pomodoro timer and to-do list features, using **React** and **Tailwind CSS**. [Live Demo](#) | [Code](#)
+- **GitHub Profile Display**: A dynamic display of GitHub repositories, updating automatically. Built with **React** and **GitHub API**. [Live Demo](#) | [Code](#)
 
 ---
 
 ### 📈 GitHub Stats
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=el3mor&show_icons=true&locale=en&layout=compact&theme=radical" alt="Omar's most used languages" />
 
 ---
-  
+
+### 🎉 Fun Facts
+
+- 🔎 I love exploring new front-end technologies and frameworks.
+- 🕹️ Gaming and football are my go-to hobbies outside of coding.
+- ☕ I’m a coffee enthusiast; black coffee fuels my code!
+
+---
+
