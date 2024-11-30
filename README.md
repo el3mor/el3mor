@@ -35,7 +35,7 @@
 ### 🌟 Featured Projects
 
 - **TaskTempo**: A productivity web app combining a Pomodoro timer and to-do list features, using **React** and **Tailwind CSS**. [Live Demo](#) | [Code](#)
-- **GitHub Profile Display**: A dynamic display of GitHub repositories, updating automatically. Built with **React** and **GitHub API**. [Live Demo](#) | [Code](#)
+- **E-commerce**: E-commerce Site With Login And SignUp. Built with **Next** and **Strapi** and **Clerk** and **Stripe**. [Live Demo](https://e-commerce-with-next-five.vercel.app/) | [Code](https://github.com/el3mor/E-commerce-with-next)
 
 ---
 
