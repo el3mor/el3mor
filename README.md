@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
 - 💬 Feel free to ask me anything – happy to chat! 👉🏻👈🏻
-- 👨🏻‍💻 Check Out My [**Portfolio**](#) 
+- 👨🏻‍💻 Check Out My [**Portfolio**](https://omarelsheikh.netlify.app/) 
 
 ---
 
