@@ -34,7 +34,7 @@
 
 ### 🌟 Featured Projects
 
-- **TaskTempo**: A productivity web app combining a Pomodoro timer and to-do list features, using **React** and **Tailwind CSS**. [Live Demo](#) | [Code](#)
+- **ElpopGaming**: a modern game discovery platform built with Next.js, designed to help you explore and manage your favorite games with ease. [Live Demo](https://elpop-gaming.vercel.app/) | [Code](https://github.com/el3mor/elpop-gaming)
 - **E-commerce**: E-commerce Site With Login And SignUp. Built with **Next** and **Strapi** and **Clerk** and **Stripe**. [Live Demo](https://e-commerce-with-next-five.vercel.app/) | [Code](https://github.com/el3mor/E-commerce-with-next)
 
 ---
